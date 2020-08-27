@@ -9,4 +9,4 @@ A GUI application that can provide a summary from Wikipedia
 ![](https://github.com/Sakaar-Sen/Wikipedia-Summary-App/blob/master/images/wiki02.JPG)
 
 ## Saved File
-![](https://github.com/Sakaar-Sen/Wikipedia-Summary-App/blob/master/images/wiki02.JPG)
+![](https://github.com/Sakaar-Sen/Wikipedia-Summary-App/blob/master/images/wiki03.JPG)
